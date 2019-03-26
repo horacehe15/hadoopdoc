@@ -1,1 +1,2 @@
-# hadoopdoc
+# hadoop安装文档
+  这是一份写的不错的hadoop安装文档，希望对您有帮助，谢谢
